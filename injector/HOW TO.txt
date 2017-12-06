@@ -1,0 +1,8 @@
+step 1: make sure you are in Release x86
+step 2: go to http://basedgod.xyz/junkcode
+step 3: add junkcode to main.cpp
+step 3.5: add some more bytes to main.cpp
+step 4: add some more junkcode to manualmap.cpp ( at the end )
+NOTE : disable optimization in settings!
+NOTE 2 : make sure you add junkcode from basedgod!
+credits to poland cheater and oatshit
